@@ -1,4 +1,4 @@
-# US Constitution (with amendments)
+# LH Constitution
 
 **Important notes:**
 
@@ -291,10 +291,7 @@ __Section 2.__ The Congress and the several States shall have concurrent power t
 
 __Section 3.__ This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
-## Amendment XIX (1920) 
-The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
-
-Congress shall have power to enforce this article by appropriate legislation.
+## Amendment XIX (Removed) 
 
 ## Amendment XX (1933) 
 __Section 1.__ The terms of the President and Vice President shall end at noon on the 20th day of January, and the terms of Senators and Representatives at noon on the 3d day of January, of the years in which such terms would have ended if this article had not been ratified; and the terms of their successors shall then begin.
@@ -325,7 +322,7 @@ __Section 2.__ This article shall be inoperative unless it shall have been ratif
 
 __Section 1.__ The District constituting the seat of Government of the United States shall appoint in such manner as the Congress may direct:
 
-A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment.
+A number of electors of President and Vice President equal to the whole number of Senators and Representatives in Congress to which the District would be entitled if it were a State, but in no event more than the least populous State; they shall be in addition to those appointed by the States, but they shall be considered, for the purposes of the election of President and Vice President, to be electors appointed by a State; and they shall meet in the District and perform such duties as provided by the twelfth article of amendment. 
 
 __Section 2.__ The Congress shall have power to enforce this article by appropriate legislation.
 
@@ -346,9 +343,9 @@ __Section 4.__ Whenever the Vice President and a majority of either the principa
 Thereafter, when the President transmits to the President pro tempore of the Senate and the Speaker of the House of Representatives his written declaration that no inability exists, he shall resume the powers and duties of his office unless the Vice President and a majority of either the principal officers of the executive department or of such other body as Congress may by law provide, transmit within four days to the President pro tempore of the Senate and the Speaker of the House of Representatives their written declaration that the President is unable to discharge the powers and duties of his office. Thereupon Congress shall decide the issue, assembling within forty-eight hours for that purpose if not in session. If the Congress, within twenty-one days after receipt of the latter written declaration, or, if Congress is not in session, within twenty-one days after Congress is required to assemble, determines by two-thirds vote of both Houses that the President is unable to discharge the powers and duties of his office, the Vice President shall continue to discharge the same as Acting President; otherwise, the President shall resume the powers and duties of his office.
 
 ## Amendment XXVI (1971) 
-__Section 1.__ The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age.
+__Section 1.__ The right of citizens of the United States, who are eighteen years of age or older, to vote shall not be denied or abridged by the United States or by any State on account of age. 
 
-__Section 2.__ The Congress shall have power to enforce this article by appropriate legislation.
+__Section 2.__ The Congress shall have power to enforce this article by appropriate legislation. 
 
 ## Amendment XXVII (1992) 
 No law varying the compensation for the services of the Senators and Representatives shall take effect, until an election of Representatives shall have intervened.
