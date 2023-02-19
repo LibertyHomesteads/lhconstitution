@@ -2,15 +2,15 @@
 
 **Important notes:**
 
-* Use of this file is subject to the NOTICE at [https://publicdocs.github.io/notice/NOTICE.txt](https://publicdocs.github.io/notice/NOTICE.txt)
+* Use of this file is subject to the NOTICE at [https://publicdocs.github.io/notice/NOTICE.txt](https://publicdocs.github.io/notice/NOTICE.txt). This is a derivative work that complies with the copyright notice. 
 * Document Metadata:
-  * This is a Markdown edition of the US Constitution.
+  * This is a the constitution of the Liberty Homesteads community, based on a markdown edition of the US Constitution.
   * Original provenance of plain text
       * URL: http://www.senate.gov/civics/constitution_item/constitution.htm
 
 ------
 
-We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
+I, the founder of Liberty Homesteads, and subsequently those who join us, in order to form a more perfect union, establish justice, insure domestic tranquility, provide for the common defense, promote the general Welfare, and secure the blessings of liberty to ourselves and our posterity, do ordain and establish this Constitution for the Liberty Homesteads Federation. 
 
 # Article I 
 
