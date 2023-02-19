@@ -4,7 +4,7 @@
 
 * Use of this file is subject to the NOTICE at [https://publicdocs.github.io/notice/NOTICE.txt](https://publicdocs.github.io/notice/NOTICE.txt). This is a derivative work that complies with the copyright notice. 
 * Document Metadata:
-  * This is a the constitution of the Liberty Homesteads community, based on a markdown edition of the US Constitution.
+  * This is the constitution of the Liberty Homesteads community, based on a markdown edition of the US Constitution.
   * Original provenance of plain text
       * URL: http://www.senate.gov/civics/constitution_item/constitution.htm
 
