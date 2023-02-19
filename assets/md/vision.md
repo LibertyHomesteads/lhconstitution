@@ -11,3 +11,4 @@ Please use this document as a guide for modifying the LH constitution.
       2. At the beginning, top-down small business model with a single executive 
       3. As more property owners join, a congress is formed of the group of property owners and some executive powers are automatically granted to the congress 
 6. Refer to the LH fork of ULEX Law as the legal code. 
+7. Add a section regarding political ponerology, and failsafes to prevent sociopaths and psychopaths from being concentrated in positions of power. 
